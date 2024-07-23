@@ -1,0 +1,9 @@
+{
+  "facts": [
+    { "id": 1, "fact": "Rainforest Retail was established in 2010." },
+    { "id": 2, "fact": "We are committed to eco-friendly packaging." },
+    { "id": 3, "fact": "We source products from sustainable suppliers." },
+    { "id": 4, "fact": "10% of our profits go to rainforest conservation." },
+    { "id": 5, "fact": "We have over 1000 employees worldwide." }
+  ]
+}
